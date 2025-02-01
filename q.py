@@ -57,4 +57,3 @@ print(f"Student?   : {'Yes' if is_student else 'No'}")
 print(f"Hey {name}, you will turn 100 years old in {100 - age} years!")
 
 
-# G
